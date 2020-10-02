@@ -18,7 +18,7 @@ Hacktoberfest Classroom Project 2019
 [Ryan Karanja](https://github.com/Ryan-Karanja)
 ---
 
-### Matthew
+### Matthe
 [Believedshelf2](https://github.com/believedshelf2/)
 ---
 
